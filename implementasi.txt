@@ -1,0 +1,9 @@
+implementasi kecerdasan buatan dapat diterapkan pada bidang:
+
+Visualisasi komputer
+
+Kecerdasan buatan pada bidang visualisasi komputer ini memungkinkan sebuah sistem komputer mengenali gambar sebagai input.
+
+Contohnya mengenali sebuah pola pada suatu gambar.
+
+
