@@ -1,0 +1,68 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:
+Judul Topik:
+Alamat Github:
+Alamat Trello:
+Anggota 1:
+	Nama: Desman Harianto
+	NIM: 121112066
+Anggota 2:
+	Nama: Jones Pasaribu
+	NIM: 121111818
+Anggota 3:
+	Nama: M. Ardiansyah Hutasuhut
+	NIM: 121112830
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+02/6 - 05/6
+Scrummaster: Desman Harianto (121112066)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+02/6 
+Daily Scrum
+(Desman Harianto):
+1. -
+2. Mencari pengertian Kecerdasan buatan
+3. Grunt server tidak berjalan dengan baik
+
+(Jones Pasaribu):
+1.
+2.
+3.
+
+(M. Ardiansyah Hutasuhut):
+1.
+2.
+3.
+
+03/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mencari pengertian kecerdasan buatan
+2. Mencari definisi kecerdasan buatan
+3. -
+
+(Jones Pasaribu):
+1.
+2.
+3.
+
+(M. Ardiansyah Hutasuhut):
+1.
+2.
+3.
