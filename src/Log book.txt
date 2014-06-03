@@ -59,8 +59,8 @@ Daily Scrum
 
 (Jones Pasaribu):
 1.
-2.
-3.
+2.implementasi dari kecerdasan buatan
+3.menambah beberapa contoh dari implementasi kecerdasan buatan
 
 (M. Ardiansyah Hutasuhut):
 1.semalam saya mencari kegunaan kecerdasan buatan
