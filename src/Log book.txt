@@ -47,8 +47,8 @@ Daily Scrum
 
 (M. Ardiansyah Hutasuhut):
 1.
-2.
-3.
+2.kegunaan kecerdasan buatan
+3.tidak ada lokal web server di laptop
 
 03/6 
 Daily Scrum
@@ -63,6 +63,6 @@ Daily Scrum
 3.
 
 (M. Ardiansyah Hutasuhut):
-1.
-2.
-3.
+1.semalam saya mencari kegunaan kecerdasan buatan
+2.mencari tujuan kegunaan buatan
+3.kurang paham dengan push dan pull
