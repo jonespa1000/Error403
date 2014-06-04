@@ -4,7 +4,7 @@
 
 slide_width = 640px
 slide_height = 480px
-slide_background = #eaeaea
+slide_background = radial-gradient(circle, #555A5F, #1C1E20) repeat scroll 0 0 #282A2D
 
 slide_transition_length = .6s
 slide_transition_easing = ease
@@ -34,6 +34,7 @@ bullet_transition_translate_x = 16px
 // bespoke.js layout styles
 
 article
+  background: slide_background
   transition: background slide_transition_length slide_transition_easing
   display: none
   &.bespoke-parent
@@ -68,7 +69,7 @@ article
   margin-top: (slide_height / 2) * -1
   left: 50%
   margin-left: (slide_width / 2) * -1
-  background: slide_background
+  //background: slide_background
   padding: 40px
   border-radius: 0
   @media print
@@ -116,6 +117,7 @@ article
 .bespoke-scale-parent
   perspective: 600px
   position: absolute
+  text-align:left
   top: 0
   left: 0
   right: 0
@@ -140,15 +142,17 @@ article
   transition: width .6s ease
   position: absolute
   height: 100%
-  background: #0089f3
+  background: red //#0089f3
   border-radius: 0 4px 4px 0
 
 // bespoke-state styles
 
 .emphatic,
 .emphatic .bespoke-slide
-  background: slide_background
+  //background: slide_background
 
+.myslide
+	background: radial-gradient(circle, #000000, #555A5F) repeat scroll 0 0 #000000
 // prism styles
 
 pre
@@ -160,24 +164,29 @@ pre
 body
   font-family: helvetica, arial, sans-serif
   font-size: 18px
-  color: #404040
+  background: slide_background
+  color: #fff //#404040
+  
 
 h1
   font-size: 72px
   line-height: 82px
   letter-spacing: -2px
   margin-bottom: 16px
+  text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #C9C9C9, 0 3px 0 #BBBBBB, 0 4px 0 #B9B9B9, 0 5px 0 #AAAAAA, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15)
 
 h2
   font-size: 42px
   letter-spacing: -1px
   margin-bottom: 8px
+  text-align:left
 
 h3
   font-size: 24px
   font-weight: normal
   margin-bottom: 24px
-  color: #606060
+  color: #fff //#606060
+  text-align:left
 
 hr
   visibility: hidden
@@ -185,13 +194,17 @@ hr
 
 ul
   list-style: none
+  text-align:left
 
 li
   margin-bottom: 12px
+  text-align: left
 
 p
-  margin: 0 100px 12px
+  //margin: 0 100px 12px
   line-height: 22px
+  text-align:left
+  margin-bottom: 24px
 
 a
   color: #0089f3
