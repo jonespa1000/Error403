@@ -1,10 +1,10 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:
-Judul Topik:
-Alamat Github:
-Alamat Trello:
+Nama kelompok: Error403
+Judul Topik: Kecerdasan Buatan
+Alamat Github: http://github.com/desmanpardosi/Error403
+Alamat Trello: http://trello.com/error403
 Anggota 1:
 	Nama: Desman Harianto
 	NIM: 121112066
