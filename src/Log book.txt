@@ -109,9 +109,9 @@ Daily Scrum
 3. -
 
 (Jones Pasaribu):
-1. 
-2. 
-3. 
+1. semalam saya mencari Perbedaan kecerdasan Buatan dan kecerdasan Alami
+2. menambahkan Perbedaan kecerdasan Buatan dan kecerdasan Alami 
+3. kurang paham dalam menggunakan node.js untuk membuat slide
 
 (M. Ardiansyah Hutasuhut):
 1. 
