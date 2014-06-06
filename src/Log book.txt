@@ -101,7 +101,6 @@ Daily Scrum
 2.menambahkan beberapa kecerdasan buatan 
 3. -
 
-<<<<<<< HEAD
 06/6 
 Daily Scrum
 (Desman Harianto):
@@ -118,38 +117,3 @@ Daily Scrum
 1. 
 2. 
 3. 
-=======
-06/6
-Daily scrum
-(M.ardiansyah H):
-1.
-2.
-3.
-
-(Desman Harianto):
-1.
-2.
-3.
-
-(jones pasaribu):
-1.
-2.
-3.
-
-07/6
-Daily scrum
-(M.ardiansyah H):
-1.
-2.
-3.
-
-(Desman Harianto):
-1.
-2.
-3.
-
-(Jones Pasaribu):
-1.
-2.
-3.
->>>>>>> 9374b3f52ff3e694a0b470526d23c70d7678ba95
