@@ -4,7 +4,7 @@
 
 slide_width = 640px
 slide_height = 480px
-slide_background = radial-gradient(circle, #555A5F, #1C1E20) repeat scroll 0 0 #282A2D
+slide_background = url("/bg.gif") repeat //radial-gradient(circle, #555A5F, #1C1E20) repeat scroll 0 0 #282A2D
 
 slide_transition_length = .6s
 slide_transition_easing = ease
@@ -151,11 +151,26 @@ article
 .emphatic .bespoke-slide
   //background: slide_background
 
+table
+  border-collapse:collapse
+  width: 500px
+  color: 3fff //#00FF00
+
+td
+  text-align: center
+  
+tr:first-child
+  background-color: rgba(0, 0, 0, 0.5)
+
+.first_slide
+    background: url("/bg.gif") repeat
 .myslide
-	background: radial-gradient(circle, #000000, #555A5F) repeat scroll 0 0 #000000
+    background: url("/bg.gif") repeat
+	//background: radial-gradient(circle, #000000, #555A5F) repeat scroll 0 0 #000000
 
 .blackslide
-    background: #000000
+    background: url("/bg.gif") repeat
+    //background: #000000f
 // prism styles
 
 pre
@@ -170,6 +185,12 @@ body
   background: slide_background
   color: #fff //#404040
   
+.logo
+  font-size: 72px
+  line-height: 82px
+  letter-spacing: -2px
+  margin-bottom: 16px
+  text-shadow: 0 1px 0 #FF0000, 0 2px 0 #FF0000, 0 3px 0 #FF0000, 0 4px 0 #FF0000, 0 5px 0 #FF0000, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15)
 
 h1
   font-size: 72px
