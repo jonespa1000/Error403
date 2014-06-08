@@ -135,3 +135,20 @@ Daily Scrum
 1. 
 2. 
 3. 
+
+08/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mengedit style
+2. Menghapus ".myslide" & ".blackslide" pada "main.styl"
+3. -
+
+(Jones Pasaribu):
+1. 
+2. 
+3. 
+
+(M. Ardiansyah Hutasuhut):
+1. 
+2. 
+3. 
