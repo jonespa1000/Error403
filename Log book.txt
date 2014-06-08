@@ -1,0 +1,154 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Error403
+Judul Topik: Kecerdasan Buatan
+Alamat Github: http://github.com/desmanpardosi/Error403
+Alamat Trello: http://trello.com/error403
+Anggota 1:
+	Nama: Desman Harianto
+	NIM: 121112066
+Anggota 2:
+	Nama: Jones Pasaribu
+	NIM: 121111818
+Anggota 3:
+	Nama: M. Ardiansyah Hutasuhut
+	NIM: 121112830
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+02/6 - 05/6
+Scrummaster: Desman Harianto (121112066)
+
+Sprint 2:
+06/6 - 09/6
+Scrummaster: M.ardiansuah H (121112830)
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+02/6 
+Daily Scrum
+(Desman Harianto):
+1. -
+2. Mencari pengertian Kecerdasan buatan
+3. Grunt server tidak berjalan dengan baik
+
+(Jones Pasaribu):
+1.
+2. 
+3.
+
+(M. Ardiansyah Hutasuhut):
+1.
+2.kegunaan kecerdasan buatan
+3.tidak ada lokal web server di laptop
+
+03/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mencari pengertian kecerdasan buatan
+2. Mencari definisi kecerdasan buatan
+3. -
+
+(Jones Pasaribu):
+1. semalam saya mengerjakan implementasi dari kecerdasan buatan
+2. menambah beberapa contoh dari implementasi kecerdasan buatan
+3. koneksi terganggu karena cuaca
+
+(M. Ardiansyah Hutasuhut):
+1.semalam saya mencari kegunaan kecerdasan buatan
+2.mencari tujuan kegunaan buatan
+3.kurang paham dengan push dan pull
+
+04/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mencari definisi kecerdasan buatan
+2. Mencari definisi kecerdasan buatan & mengedit style
+3. -
+
+(Jones Pasaribu):
+1. semalam saya menambahkan beberapa contoh dari implementasi kecerdasan buatan
+2. mencari tujauan dari kecerdasan buatan
+3.
+
+(M. Ardiansyah Hutasuhut):
+1.semalam saya mencari tujuan kecerdasan 
+2.menambahkan beberapa kecerdasan buatan
+3.-
+
+05/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mencari definisi kecerdasan buatan & mengedit style
+2. Mengedit style
+3. -
+
+(Jones Pasaribu):
+1. semalam saya mencari tujuan dari kecerdasan buatan
+2. perbedaan kecerdasan buatan dan kecerdasan alami
+3.
+
+(M. Ardiansyah Hutasuhut):
+1.semalam saya mencari tujuan kecerdasan 
+2.menambahkan beberapa kecerdasan buatan 
+3. -
+
+06/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mengedit style
+2. Menjadikan "src/bg.gif" sebagai background slide
+3. -
+
+(Jones Pasaribu):
+1. semalam saya mencari Perbedaan kecerdasan Buatan dan kecerdasan Alami
+2. menambahkan Perbedaan kecerdasan Buatan dan kecerdasan Alami 
+3. kurang paham dalam menggunakan node.js untuk membuat slide
+
+(M. Ardiansyah Hutasuhut):
+1. 
+2. 
+3. 
+
+07/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mengedit & menjadikan "src/bg.gif" sebagai background slide
+2. Mengedit style
+3. -
+
+(Jones Pasaribu):
+1. 
+2. 
+3. 
+
+(M. Ardiansyah Hutasuhut):
+1. 
+2. 
+3. 
+
+08/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya mengedit style
+2. Menghapus ".myslide" & ".blackslide" pada "main.styl"
+3. -
+
+(Jones Pasaribu):
+1. 
+2. 
+3. 
+
+(M. Ardiansyah Hutasuhut):
+1. 
+2. 
+3. 
