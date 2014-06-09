@@ -47,7 +47,7 @@ Daily Scrum
 3.
 
 (M. Ardiansyah Hutasuhut):
-1.
+1.-
 2.kegunaan kecerdasan buatan
 3.tidak ada lokal web server di laptop
 
