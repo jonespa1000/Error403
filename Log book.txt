@@ -115,9 +115,9 @@ Daily Scrum
 3. kurang paham dalam menggunakan node.js untuk membuat slide
 
 (M. Ardiansyah Hutasuhut):
-1. 
-2. 
-3. 
+1.semalam saya menambahkan beberapa kecerdasan buatan 
+2.hari ini saya mengedit desain slide 
+3. -
 
 07/6 
 Daily Scrum
