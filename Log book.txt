@@ -152,3 +152,20 @@ Daily Scrum
 1. 
 2. 
 3. 
+
+09/6 
+Daily Scrum
+(Desman Harianto):
+1. Semalam saya menghapus ".myslide" & ".blackslide" pada "main.styl"
+2. Menghapus "margin: 0 100px 12px" yang ada di tag "p" pada "main.styl"
+3. -
+
+(Jones Pasaribu):
+1. 
+2. 
+3. 
+
+(M. Ardiansyah Hutasuhut):
+1. 
+2. 
+3. 
