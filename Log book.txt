@@ -29,6 +29,8 @@ Sprint 2:
 Scrummaster: M.ardiansuah H (121112830)
 
 Sprint 3: 
+10/6 - 14/6
+scrummaster: Jones Pasaribu (121111818) 
 
 
 Progress Harian (Diupdate tiap hari)
@@ -162,10 +164,27 @@ Daily Scrum
 
 (Jones Pasaribu):
 1. 
-2. 
+2. menghapus line 72 pada "main.styl".
 3. 
 
 (M. Ardiansyah Hutasuhut):
 1.semalam mengedit desain slide 
 2.harine saya mengedit desain slide 
-3.- 
+3.-
+
+10/6
+Daily scrum
+(Desman Harianto):
+1. 
+2. 
+3.
+
+(Jones Pasaribu):
+1. semalam saya menghapus line 72 pada "main.styl".
+2. Mencari Dampak dari Kecerdasan Buatan
+3.-
+
+(M. Ardiansyan Hutasuhut):
+1.
+2.
+3.
