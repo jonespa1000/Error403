@@ -192,9 +192,9 @@ Daily scrum
 11/06
 Daily scrum
 (Desman Harianto):
-1.
-2.
-3.
+1. -
+2. Menambahkan gambar pada implementasi
+3. -
 
 (Jones Pasaribu):
 1. Semalam saya mencari Dampak dari Kecerdasan Buatan
